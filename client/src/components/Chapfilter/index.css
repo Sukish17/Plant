@@ -1,0 +1,20 @@
+.cf1{
+    background-color:  #F0FFE5;
+    ;
+    height: 400px;
+    width: 300px;
+    margin-right: 40px;
+
+}
+.cf2{
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    margin-right: 10px;
+}
+.cp1{
+    font-size: 10px;
+    font-family: "Robato";
+    color:  #6E6E6E;
+    ;
+}

@@ -1,0 +1,112 @@
+.thumbnail5{
+    height: 246px;
+    width: 266px;
+}
+.star{
+    width: 87px;
+height: 19px;
+
+
+}
+.ps1{
+    border: 1px solid #cdcaca;
+}
+.psp1{
+    text-align: center;
+    background-color: rgb(4, 73, 4);
+    color: white;
+    height: 30px;
+    padding: 5px;
+    margin: 0px;
+}
+.psp2{
+    font-family: 'Poppins';
+font-size: 20px;
+font-weight: bold;
+margin: 0px;
+}
+.psp3{
+    font-family: 'Poppins';
+font-size: 14px;
+color:  #838383;
+
+margin: 0px;
+
+}
+.psd2{
+    display: flex;
+    margin-top: 5px;
+}
+.psp4{
+    font-family: 'Poppins';
+font-size: 14px;
+color:  #838383;
+margin-top: 0px;
+margin-left: 5px;
+padding: 4px;
+
+}
+.psd3{
+    margin-top: 5px;
+}
+.psd4{
+    display: flex;
+}
+.psp5{
+    font-family: 'Poppins';
+    font-size: 14px;
+    color:  #838383;
+    text-decoration: line-through;
+    margin: 0px;
+    
+}
+.psp6{
+    font-family: 'Poppins';
+    color:  #5E5A5A;
+    
+font-size: 20px;
+font-weight: 600;
+padding: 2px;
+margin: 0px;
+
+}
+.psd6{
+    display: flex;
+}
+.psb1{
+    width: 149px;
+height: 37px;
+border-top-right-radius: 10px ;
+border-bottom-right-radius: 10px;
+background-color:  #165315;
+border: 0px;
+color: white;
+
+
+}
+.psb2{
+    width: 114px;
+height: 37px;
+border-radius: 10px ;
+border: 1px solid #165315;
+color:#165315;
+margin-left: 10px;
+
+}
+.product-item{
+    margin-bottom: 40px;
+}
+.plus{
+    background-color: #165315;
+    color: white;
+    height: 37px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 0px;
+}
+.quna{
+    color: #5E5A5A;
+    margin: 0px;
+    padding: 2px;
+    font-size: 10px;
+}
